@@ -14,8 +14,10 @@ Contains:
 
 
 
-### Selected Visualizations
+## Selected Visualizations
 
 ![Vaccination Progress in Germany](img/vaccinations_germany_area_plot.png)
 
 ![Vaccines used in Germany](img/vaccines_used_in_germany.png)
+
+![Number of doses depending on the weekday](img/weekday_boxplot.png)
