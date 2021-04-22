@@ -21,3 +21,5 @@ Contains:
 ![Vaccines used in Germany](img/vaccines_used_in_germany.png)
 
 ![Number of doses depending on the weekday](img/weekday_boxplot.png)
+
+![Vaccination in Germany Pie Chart](img/vaccination_in_germany_pie.png)
