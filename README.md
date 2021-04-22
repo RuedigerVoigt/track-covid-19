@@ -18,6 +18,8 @@ Contains:
 
 ![Vaccination Progress in Germany](img/vaccinations_germany_area_plot.png)
 
+![Number of vaccine doses used monthly in Germany](img/monthly_doses_germany.png)
+
 ![Vaccines used in Germany](img/vaccines_used_in_germany.png)
 
 ![Number of doses depending on the weekday](img/weekday_boxplot.png)
