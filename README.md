@@ -35,3 +35,5 @@ Contains:
 
 ![Number of doses depending on the weekday](img/weekday_boxplot.png)
 
+![Vaccination Centers vs Doctors](img/vaccinations_germany_by_place.png)
+
