@@ -30,4 +30,6 @@ Contains:
 
 ![Vaccines used in Germany](img/vaccines_used_in_germany.png)
 
+Distribution over weekdays in the last 6 weeks:
+
 ![Number of doses depending on the weekday](img/weekday_boxplot.png)
