@@ -26,8 +26,6 @@ Contains:
 
 ![Vaccination in Germany Pie Chart](img/vaccination_in_germany_pie.png)
 
-![Number of vaccine doses used monthly in Germany](img/monthly_doses_by_place_germany.png)
-
 ![Vaccines used in Germany](img/vaccines_used_in_germany.png)
 
 Distribution over weekdays in the last 6 weeks:
