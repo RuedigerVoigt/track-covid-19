@@ -3,6 +3,8 @@
 A couple of Jupyter Notebooks that analyze open data on Covid-19.
 Main focus is the situation in Germany.
 
+The RKI stated that not all vaccinations are tracked, so actual vaccination numbers should be higher.
+
 ## ICU Capacity Utilization
 
 [Jupyter Notebook](intensive-care.ipynb) | [PDF](intensive-care.pdf)
